@@ -75,8 +75,8 @@
     },
     "dependencies": {
         "@types/opn": "^5.1.0",
-        "opn": "^5.4.0",
-        "request": "^2.88.0"
+        "opn": "^5.5.0",
+        "request": "^2.88.2"
     },
     "devDependencies": {
         "@types/node": "^6.0.40",
